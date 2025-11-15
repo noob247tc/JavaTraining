@@ -4,7 +4,6 @@ public class Main {
     public static void main(String[] args) {
 
 
-
         int age = 17;
         if(ageCheck(age)){
             System.out.println("You may sign up");
